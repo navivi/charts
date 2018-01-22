@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  lets-chat:
+  - apiVersion: v1
+    created: 2018-01-23T00:59:12.543408833+02:00
+    description: A Helm chart for Kubernetes
+    digest: 4f6806bc968df73e4fbe356e0529269da3c0c37c7a36e5ab370638a5b99f276e
+    name: lets-chat
+    urls:
+    - lets-chat-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2018-01-23T00:59:12.542424214+02:00
+    description: A Helm chart for Kubernetes
+    digest: b6198590be83eb9a4ad599b77eaf7b8b62954419a53fcfb7bb956e9ef30a354b
+    name: lets-chat
+    urls:
+    - lets-chat-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-01-23T00:59:12.541472339+02:00
